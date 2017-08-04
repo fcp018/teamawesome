@@ -1,6 +1,4 @@
 <?php
-
-
 //Require Class ##############################################################
 include(dirname(__FILE).'/tweets2array.class.php');
 
